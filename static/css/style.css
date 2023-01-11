@@ -1,0 +1,13 @@
+th,
+td,
+td {
+    text-align: center;
+    font-family: 나눔고딕;
+    border: 1px solid;
+    border-color: black;
+}
+
+.comment {
+    border-top:dotted 1px #ddd;
+    font-size: 0.7em;
+}
